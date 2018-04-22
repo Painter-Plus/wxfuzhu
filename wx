@@ -1,1 +1,27 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>这个是一个音乐网站</title>
+		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+	</head>
+	<body>
+		<div id="mis" >
+		<audio  autoplay="autoplay"></audio>
+		<source src="mis/林碧落 - 改变自己16bi/.mp3" type="audio/ogg" >
+		<h3 id="nm">316计算机信息管理</h3>
+		</div>
+		<div id="cent">
+			<table border="0" cellspacing="" cellpadding="">
+				
+				<tr><td><a href="">首页</a></td><td><a href="https://www.baidu.com/">百度</a></td><td><a href="http://www.qq.com/index.shtml">腾讯</a></td><td><a href="https://www.bilibili.com/">哔哩哔哩动画</a></td></tr>
+			</table>
+		</div>
+		<div id="wx">
+			<img src="img/wx.jpg"/>
+		</div>
+		<div id="font">
+			<p>做辅助吗？扫码加微信吧</p>
+		</div>
+	</body>
+</html>
 
